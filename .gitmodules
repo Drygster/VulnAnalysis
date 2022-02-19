@@ -1,0 +1,9 @@
+[submodule "jok3r"]
+	path = jok3r
+	url = https://github.com/koutto/jok3r
+[submodule "ApplicationWeb/wfuzz"]
+	path = ApplicationWeb/wfuzz
+	url = https://github.com/xmendez/wfuzz
+[submodule "Mobile/Mobile-Security-Framework-MobSF"]
+	path = Mobile/Mobile-Security-Framework-MobSF
+	url = https://github.com/MobSF/Mobile-Security-Framework-MobSF
