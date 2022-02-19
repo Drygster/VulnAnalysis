@@ -7,3 +7,9 @@
 [submodule "Mobile/Mobile-Security-Framework-MobSF"]
 	path = Mobile/Mobile-Security-Framework-MobSF
 	url = https://github.com/MobSF/Mobile-Security-Framework-MobSF
+[submodule "ApplicationWeb/nikto"]
+	path = ApplicationWeb/nikto
+	url = https://github.com/sullo/nikto
+[submodule "ApplicationWeb/Gobuster"]
+	path = ApplicationWeb/Gobuster
+	url = https://github.com/OJ/gobuster
