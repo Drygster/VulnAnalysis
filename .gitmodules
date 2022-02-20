@@ -16,3 +16,6 @@
 [submodule "Mobile/FireBaseScanner"]
 	path = Mobile/FireBaseScanner
 	url = https://github.com/shivsahni/FireBaseScanner.git
+[submodule "Mobile/MARA_Framework"]
+	path = Mobile/MARA_Framework
+	url = https://github.com/xtiankisutsa/MARA_Framework
