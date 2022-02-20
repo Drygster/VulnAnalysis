@@ -13,3 +13,6 @@
 [submodule "ApplicationWeb/Gobuster"]
 	path = ApplicationWeb/Gobuster
 	url = https://github.com/OJ/gobuster
+[submodule "Mobile/FireBaseScanner"]
+	path = Mobile/FireBaseScanner
+	url = https://github.com/shivsahni/FireBaseScanner.git
