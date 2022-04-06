@@ -19,3 +19,6 @@
 [submodule "Mobile/MARA_Framework"]
 	path = Mobile/MARA_Framework
 	url = https://github.com/xtiankisutsa/MARA_Framework
+[submodule "ReverseEngineering/cutter"]
+	path = ReverseEngineering/cutter
+	url = https://github.com/rizinorg/cutter
