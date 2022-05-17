@@ -22,3 +22,6 @@
 [submodule "ReverseEngineering/cutter"]
 	path = ReverseEngineering/cutter
 	url = https://github.com/rizinorg/cutter
+[submodule "ReverseEngineering/edb-debugger"]
+	path = ReverseEngineering/edb-debugger
+	url = https://github.com/eteran/edb-debugger.git
