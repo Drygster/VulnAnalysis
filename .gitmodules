@@ -25,3 +25,6 @@
 [submodule "ReverseEngineering/edb-debugger"]
 	path = ReverseEngineering/edb-debugger
 	url = https://github.com/eteran/edb-debugger.git
+[submodule "ApplicationWeb/testssl.sh"]
+	path = ApplicationWeb/testssl.sh
+	url = https://github.com/drwetter/testssl.sh
